@@ -55,6 +55,10 @@ The following data preparation steps were performed:
 
 # 📈 Dashboard 1: Market Overview
 
+## Market Overview Dashboard
+
+![Market Overview](https://github.com/fordatascienceandai-2407/airbnb-market-analysis-powerbi/blob/main/Dashboard-Screenshots/Market_Overview.png?raw=true)
+
 This dashboard provides insights into:
 
 * Total Listings
@@ -71,6 +75,10 @@ This dashboard provides insights into:
 ---
 
 # 👥 Dashboard 2: Host Performance Analysis
+
+## Host Performance Dashboard
+
+![Host Performance](https://github.com/fordatascienceandai-2407/airbnb-market-analysis-powerbi/blob/main/Dashboard-Screenshots/Host_Performance.png?raw=true)
 
 This dashboard provides insights into:
 
